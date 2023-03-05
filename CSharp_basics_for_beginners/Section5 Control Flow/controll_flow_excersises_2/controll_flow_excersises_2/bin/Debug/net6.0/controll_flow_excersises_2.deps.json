@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "controll_flow_excersises_2/1.0.0": {
+        "runtime": {
+          "controll_flow_excersises_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "controll_flow_excersises_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.csproj.AssemblyReference.cache
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.AssemblyInfoInputs.cache
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.AssemblyInfo.cs
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.csproj.CoreCompileInputs.cache
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\bin\Debug\net6.0\excersize.exe
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\bin\Debug\net6.0\excersize.deps.json
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\bin\Debug\net6.0\excersize.runtimeconfig.json
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\bin\Debug\net6.0\excersize.dll
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\bin\Debug\net6.0\excersize.pdb
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.dll
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\refint\excersize.dll
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.pdb
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\excersize.genruntimeconfig.cache
+D:\Repositories\Learning_C_sharp\CSharp_basics_for_beginners\section6_Arrays_and_Lists\excersize\excersize\obj\Debug\net6.0\ref\excersize.dll
